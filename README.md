@@ -106,7 +106,9 @@ The steps I took to create a Virtual Machine in Microsoft Azure are as follows:
 
 ## Google Cloud Platform (GCP)
 
-    I was able to review and monitor the costs for GCP by accessing the "Billing" section of GCP. I navigated towards:
+I was able to review and monitor the costs for GCP by accessing the "Billing" section of GCP. 
+
+I navigated towards:
         
         1- "Billing Overview" 
         2- "Billing Reports"
