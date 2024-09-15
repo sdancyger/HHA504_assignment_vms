@@ -83,8 +83,7 @@ The steps I took to create a Virtual Machine in Microsoft Azure are as follows:
 
 
     My Azure Virtual Machine named "virtual-machine-1" passed validation 
-    and then proceeded to the 
-    "Deployment" phase. 
+    and then proceeded to the "Deployment" phase. 
 
     After the deployment phase completed, I 
     was able to review my Virtual Machine. 
