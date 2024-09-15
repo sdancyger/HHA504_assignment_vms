@@ -68,7 +68,8 @@ The steps I took to create a Virtual Machine in Microsoft Azure are as follows:
 
     6. Ensured Ubuntu Server was present for image settings.
 
-    7. Ensured basic configuration was present, and "Size" of "Standard_DC1s_v2- 1 vcpu, 4 GiB memory ($0.01162/hr).
+    7. Ensured basic configuration was present, and "Size" of "Standard_DC1s_v2- 1 vcpu, 
+    4 GiB memory ($0.01162/hr).
 
     8. Allowed Virtual Machine to run for a few minutes.
 
