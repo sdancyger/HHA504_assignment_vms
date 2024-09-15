@@ -5,7 +5,9 @@ Assignment for HHA 504
 
 The objective of this assignment is to provide hands-on experience with managing Virtual Machines (VMs) in both Azure and Google Cloud Platform (GCP). You will learn how to start, stop, and monitor the costs associated with running VMs on these cloud platforms.
 
-### *1. Start and Stop a Virtual Machine*
+# *1. Start and Stop a Virtual Machine*
+
+## Google Cloud Platform (GCP)
 
 The steps I took to start and stop the Virtual Machine within Google Cloud Platform include: 
 
@@ -48,3 +50,40 @@ The steps I took to start and stop the Virtual Machine within Google Cloud Platf
 ![VMPicture5](<GCP pictures/GCPVM5.png>)
 
 ![Stopped VM](<GCP pictures/GCPVM stopped.png>)
+
+
+## Microsoft Azure
+
+
+
+
+
+# *2. Monitor VM Costs*
+
+## Google Cloud Platform (GCP)
+
+    I was able to monitor the costs for GCP by accessing the "Billing" section of GCP. I navigated towards:
+        
+        1- "Billing Overview" 
+        2- "Billing Reports"
+        3- "Billing Cost Table"
+        4- "Billing Cost Breakdown"
+    
+    There were no costs recorded at this time. There were no costs due to the VM not being able to run for a sufficient amount of time to aquire such costs. However, if the VM ran for an extended period of time, the charges would be able to be easily viewed under "Cost Breakdown."
+
+![Main billing](<GCP pictures/GCPbillingmain.png>)
+        
+![Overview billing](<GCP pictures/GCPbillingoverview.png>)
+
+![Reports billing](<GCP pictures/GCPbillingreports.png>)
+
+![Cost table billing](<GCP pictures/GCPbillingcosttable.png>)
+
+![Cost breakdown billing](<GCP pictures/GCPbillingcostbreakdown.png>)
+
+## Microsoft Azure
+
+
+
+
+# *3. Compare and Reflect*
