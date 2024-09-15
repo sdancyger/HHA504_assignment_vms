@@ -82,9 +82,12 @@ The steps I took to create a Virtual Machine in Microsoft Azure are as follows:
 ![Passed validation VM Azure](<GCP pictures/Azurepassedvalidation.png>)
 
 
-    My Azure Virtual Machine named "virtual-machine-1" passed validation and then proceeded to the "Deployment" phase. 
-    
-    After the deployment phase completed, I was able to review my Virtual Machine. 
+    My Azure Virtual Machine named "virtual-machine-1" passed validation 
+    and then proceeded to the 
+    "Deployment" phase. 
+
+    After the deployment phase completed, I 
+    was able to review my Virtual Machine. 
 
 ![Deployment of VM Azure](<GCP pictures/Azuredeployment.png>)
 
