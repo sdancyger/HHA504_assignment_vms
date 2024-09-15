@@ -27,4 +27,6 @@ The steps I took to start and stop the Virtual Machine within Google Cloud Platf
 
     9. Stopped virtual machine by clicking the hamburger button bar adjacent to the Virtual Machine instance named, "virtual-machine-1."
 
-! [picture1](GCP pictures/GCP pictures/GCP New VM-Machine configuration.png)
+![GCP VM Creation](GCP pictures/vm_creation.png)
+
+
