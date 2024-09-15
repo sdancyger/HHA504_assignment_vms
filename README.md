@@ -26,7 +26,7 @@ The steps I took to start and stop the Virtual Machine within Google Cloud Platf
     8. Allowed new virtual machine to run for a few minutes. 
 
     9. Stopped virtual machine by clicking the hamburger button bar adjacent to the Virtual Machine instance named, "virtual-machine-1."
+    
+![GCP New VM Machine Configuration](./GCP%20pictures/GCP%20New%20VM%20Machine%20configuration.png)
 
-![GCP VM Creation](GCP pictures/vm_creation.png)
-
-
+![GCP New VM Machine Configuration](GCP_pictures/GCP_New_VM_Configuration.png)
