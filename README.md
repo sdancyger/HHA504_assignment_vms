@@ -113,7 +113,7 @@ The steps I took to create a Virtual Machine in Microsoft Azure are as follows:
         3- "Billing Cost Table"
         4- "Billing Cost Breakdown"
     
-        There were no costs recorded at this time. There were no costs due to the VM not being able to run for a sufficient amount of time to aquire such costs. However, if the VM ran for an extended period of time, the charges would be able to be easily viewed under "Cost Breakdown."
+There were no costs recorded at this time. There were no costs due to the VM not being able to run for a sufficient amount of time to aquire such costs. However, if the VM ran for an extended period of time, the charges would be able to be easily viewed under "Cost Breakdown."
 
 ![Main billing](<GCP pictures/GCPbillingmain.png>)
         
