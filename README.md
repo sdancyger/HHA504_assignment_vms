@@ -150,6 +150,7 @@ There were no costs recorded at this time. There were no costs due to the VM not
         4- "Billing Profiles"
         5- "Benefits (preview)
 
+There were no costs recorded at this time. There were no costs due to the VM not being able to run for an ample amount of time. However, if the VM ran for an extended period of time, costs would present on these tabs and would be available for review and analysis.
 
 ![cost analysis](<GCP pictures/Azurecostmgmtcostanalysis.png>)
 
