@@ -113,7 +113,7 @@ The steps I took to create a Virtual Machine in Microsoft Azure are as follows:
         3- "Billing Cost Table"
         4- "Billing Cost Breakdown"
     
-    There were no costs recorded at this time. There were no costs due to the VM not being able to run for a sufficient amount of time to aquire such costs. However, if the VM ran for an extended period of time, the charges would be able to be easily viewed under "Cost Breakdown."
+        There were no costs recorded at this time. There were no costs due to the VM not being able to run for a sufficient amount of time to aquire such costs. However, if the VM ran for an extended period of time, the charges would be able to be easily viewed under "Cost Breakdown."
 
 ![Main billing](<GCP pictures/GCPbillingmain.png>)
         
@@ -167,6 +167,8 @@ The steps I took to create a Virtual Machine in Microsoft Azure are as follows:
 
 # *3. Compare and Reflect*
 
-I found the Google Cloud Platform (GCP) very easy and clear to nagivate. I was able to successfully create, run, and stop my virtual machine instance named "virtual-machine-1." All of the features to review costs and billing management were working, however no data was available due to the short run-time of the virtual machine. 
+I found the Google Cloud Platform (GCP) very easy and clear to nagivate. I was able to successfully create, run, and stop my virtual machine instance named "virtual-machine-1." All of the features to review costs and billing management were working, however no data was available due to the short run-time of the virtual machine. GCP provided a cost of $0.04/hr, with a monthly estimate of $28.65/mo. 
 
-I was able to run my virtual machine named "virtual-machine-1" on Microsoft Azure as well. The virtual machine "Cost Management" and "Invoices" tabs did not have any numerical data as the Virtual Machine was not running for an adequate amount of time to incur costs. If the Virtual Machine remained running, costs would eventually be able to reviewed and analyzed in these tabs. 
+I was able to run my virtual machine named "virtual-machine-1" on Microsoft Azure as well. The virtual machine "Cost Management" and "Invoices" tabs did not have any numerical data as the Virtual Machine was not running for an adequate amount of time to incur costs. If the Virtual Machine remained running, costs would eventually be able to reviewed and analyzed in these tabs. Microsoft Azure provided a cost of $0.0116/hr.
+
+Microsoft Azure's hourly cost was less than Google Cloud Platform's (GCP) hourly cost. I found it easier to navigate, utilize, create, edit, and stop the Virtual Machine in GCP compared to Microsoft Azure. Due to GCP's more user-friendly design platform, I prefer it's use compared to Microsoft Azure. 
